@@ -1,16 +1,39 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+# 👋 Hi, I'm Victor Grant  
 
-###
+**Fullstack Blockchain and Web3 Developer**  
+Specializing in **React** and **dApp development**  
 
-<h4 align="left">I am Victor Grant, a 21 year old fullstack and Ethereum dApp developer</h4>
+---
 
-###
+### 🧠 About Me  
+- 💻 Passionate about building decentralized apps and scalable web solutions  
+- ⚙️ Skilled in smart contract development and modern fullstack frameworks  
+- 🚀 Constantly learning and improving my craft in blockchain technologies  
 
-<h2 align="left">About me</h2>
+---
 
-###
+### 🧩 Tech Stack  
+**Frontend:** React, React Native, Next.js, JavaScript, Tailwind CSS  
+**Backend:** Node.js, Express, MongoDB  
+**Blockchain:** Solidity, Hardhat, Ethers.js  
 
-<p align="left">Hi there 👋<br>I’m a full-stack and decentralized app developer passionate about building modern web and mobile applications.<br>I love working with JavaScript, Solidity, React, React Native, Hardhat, Node.js, and MongoDB to create efficient and user-friendly solutions.<br><br>💻 I enjoy solving real-world problems with code<br><br>🚀 Currently learning more about blockchain & Web3 development and building projects along the way<br><br>🤝 Open to collaborating on exciting projects<br><br>🛠️ Always improving my skills and exploring new technologies<br><br>📫 How to reach me: [Your preferred contact or socials here</p>
+---
+
+### 📈 GitHub Stats  
+![GitHub Streak](https://streak-stats.demolab.com?user=Victor-Grant&theme=default&hide_border=true)
+
+![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=Victor-Grant&show_icons=true&hide_title=true&hide_border=true&count_private=true&theme=default)
+
+---
+
+### 🌐 Connect With Me  
+- 💼 [GitHub](https://github.com/Victor-Grant)  
+- 🌎 *Add your portfolio or LinkedIn link here if you’d like*  
+
+---
+
+⭐️ *If you find my projects helpful, consider following me to stay updated on new work!*
+
 
 ###
 
