@@ -28,7 +28,6 @@ Specializing in **React** and **dApp development**
 
 ### 🌐 Connect With Me  
 - 💼 [GitHub](https://github.com/Victor-Grant)  
-- 🌎 *Add your portfolio or LinkedIn link here if you’d like*  
 
 ---
 
